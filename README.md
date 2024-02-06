@@ -1,6 +1,6 @@
 ### Hi, I am Aditi Chadha
 
-<!--
+
 **aditichadha/aditichadha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 👋 Hello there! I'm a passionate data scientist with a keen interest in unraveling the "why's" behind every problem statement. My journey in the realm of data science has equipped me with valuable insights into optimizing product features, deciphering complex consumer behavior, and identifying untapped opportunities through data-driven approaches.
@@ -9,5 +9,3 @@
 
 🚀 Eager to connect with like-minded enthusiasts, I'm here to share experiences, collaborate on exciting projects, and collectively expand our knowledge.
 
-
--->
